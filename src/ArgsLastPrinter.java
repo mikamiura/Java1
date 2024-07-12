@@ -10,7 +10,7 @@ public class ArgsLastPrinter {
 		} else {
 			//4.要素数が1個以上だったら最後の要素を表示する
 			System.out.println(args[args.length - 1]);
-			//　りんご(0)・ばなな(１)・もも(2)
+
 		}
 	}
 }
