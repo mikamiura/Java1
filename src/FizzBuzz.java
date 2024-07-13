@@ -2,6 +2,7 @@
 public class FizzBuzz {
 	public static void main(String[] args) {
 		//argsを整数に変換
+		//コマンド引数52
 		int num = Integer.parseInt(args[0]);
 		
 		for (int i = 1; i <= num; i++) {
